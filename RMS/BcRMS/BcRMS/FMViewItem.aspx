@@ -10,6 +10,7 @@
     <body>
         <div class="header">
             <h1>Food Management System</h1>
+            <h2>Food Management System</h2>
         </div>
         <div class="menu">
             <a href="HomePage.aspx">Home Page</a>
